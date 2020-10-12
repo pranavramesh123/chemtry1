@@ -1,4 +1,4 @@
 ChemistryLab
 ============
 
-A 3D chemistry Lab based on webgl.
+A 3D chemistry lab
